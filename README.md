@@ -11,4 +11,4 @@ youtube-dl插件的使用教程，上手就能用这种，详细的文档必须�
 ![youtube-dl run in command line](/image/youtube-dl%20001.PNG){:height="50%" width="50%"}
 ```youtube-dl --list-formats https://www.youtube.com/watch?v=RtU8nBnpFVE```    
 列出网址上对应的所有可以下载的视频格式
-![youtube-dl video list](/image/youtube-dl--list-formats.PNG)
+<img src="/image/youtube-dl--list-formats.PNG" height="30%" width = "80%" />
