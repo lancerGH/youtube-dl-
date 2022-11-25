@@ -16,3 +16,4 @@ youtube-dl -F https://www.youtube.com/watch?v=RtU8nBnpFVE
 ```    
 列出网址上对应的所有可以下载的视频格式    
 <img src="/image/youtube-dl--list-formats.PNG" height="80%" width = "80%" />
+```youtube-dl -f 22 https://www.youtube.com/watch?v=RtU8nBnpFVE ```
