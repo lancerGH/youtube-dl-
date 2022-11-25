@@ -15,5 +15,6 @@ youtube-dl --list-formats https://www.youtube.com/watch?v=RtU8nBnpFVE
 youtube-dl -F https://www.youtube.com/watch?v=RtU8nBnpFVE
 ```    
 列出网址上对应的所有可以下载的视频格式    
-<img src="/image/youtube-dl--list-formats.PNG" height="80%" width = "80%" />
-```youtube-dl -f 22 https://www.youtube.com/watch?v=RtU8nBnpFVE ```
+<img src="/image/youtube-dl--list-formats.PNG" height="80%" width = "80%" />    
+```youtube-dl -f 22 https://www.youtube.com/watch?v=RtU8nBnpFVE ```    
+选择对应的22号来下载，但是其实也可以用`-f best`形式来选取对应视频、音频进行下载。
